@@ -14,7 +14,7 @@
 ## About Me 😃
 
 * 🎓 **Systems Engineer** graduated in 2024.
-* 💻 **Full-stack Developer** with approximately **2 years of experience**, specializing in **PHP, JavaScript, and TypeScript**.
+* 💻 **Full-stack Developer** with approximately **working since 2023**, specializing in **PHP, JavaScript, and TypeScript**.
 * 🛠️ **Full-stack development specialist with Laravel** and **Livewire**, with experience in **critical integrations** such as **HubSpot** and payment gateways (**Stripe**), in addition to **Mobile development (Flutter)**.
 * ⭐ Passionate about programming, with great capacity for **teamwork** and efficient in the use of tools like **Git, GitHub, Docker, and Bash**.
 * 📌 Location: **Táchira, Venezuela**.
